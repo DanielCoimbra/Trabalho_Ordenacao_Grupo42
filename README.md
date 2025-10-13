@@ -18,5 +18,5 @@ Aqui você diz se o algoritmo utilizado foi útil, se tem limitações, etc.
 Caso tenha utilizado algum agoritmo como base, citar o mesmo devidamente para  evitar quaisquer denuncias de plágio.
 
 ## Grupo
-<img src="https://avatars.githubusercontent.com/u/49206670?v=4&size=64" width=150><br>
+<img src="https://avatars.githubusercontent.com/u/49206670?s=400&u=200e3dc888a00aa86108318d2d9b6c33aa94abe1&v=4" width=150><br>
       <b><a href="https://github.com/DanielCoimbra">Daniel Coimbra</a></b><br>
