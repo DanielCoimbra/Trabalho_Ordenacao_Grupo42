@@ -30,8 +30,9 @@ All integers in arr are unique (i.e. arr is a permutation of the integers from 1
 
 
 ## Capturas de tela
-<img src="[Runtime](/imgs/pancakeSorting.PNG)"><br>
-<img src="[Questão e código](/imgs/runtime_pancakesorting.PNG)"><br>
+<p>Pancake Sorting - Questão e Código</p><img src="imgs/pancakeSorting.PNG"><br>
+<br>
+<p>Runtime Metrics</p><img src="imgs/runtime_pancakesorting.PNG"><br>
 
 ## Conclusões
 Este algoritmo funciona em pelo menos 4 etapas:
