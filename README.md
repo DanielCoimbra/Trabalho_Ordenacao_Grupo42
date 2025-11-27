@@ -8,7 +8,7 @@
 | 18/0113097 | Daniel Coimbra dos Santos |  
 
 ## Descrição do projeto
-Resolução de questões do LeetCode para demonstrar na prática os conhecimentos adquiridos acerca do conteúdo Algoritmos de Ordenação
+Resolução de questões do LeetCode para demonstrar na prática os conhecimentos adquiridos acerca do conteúdo Algoritmos de Busca
 
 ### Questão de Dificuldade Média:
 #### 969. Pancake Sorting
@@ -57,6 +57,7 @@ O algoritmo de Ordenação por Panquecas (Pancake Sorting) foi inventada por Jac
 Jacob E. Goodman: Matemático que criou o problema por volta de 1975 enquanto empilhava toalhas, comparando o processo com a ordenação de panquecas de diferentes tamanhos, invertendo seções da pilha. Inicialmente, ele enviou o problema para o American Mathematical Monthly.
 
 Bill Gates: Quando era estudante de graduação, coautorizou um artigo significativo com Christos Papadimitriou intitulado "Bounds for Sorting by Prefix Reversal", que apresentou um algoritmo eficiente para a ordenação por panquecas e foi publicado em 1979. Esse algoritmo foi o mais eficiente por muitos anos.
+
 
 ---
 ### Questão de Dificuldade Média:
