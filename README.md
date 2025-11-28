@@ -8,7 +8,7 @@
 | 18/0113097 | Daniel Coimbra dos Santos |  
 
 ## Descrição do projeto
-Resolução de questões do LeetCode para demonstrar na prática os conhecimentos adquiridos acerca do conteúdo Algoritmos de Busca
+Resolução de questões do LeetCode para demonstrar na prática os conhecimentos adquiridos acerca do conteúdo Algoritmos de Ordenação
 
 ### Questão de Dificuldade Média:
 #### 969. Pancake Sorting
